@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Hussain Saber</h1>
 <h3 align="center">🚀 Passionate Frontend Software Developer | B.Tech Graduate | Actively contributing as an SDE Intern at Where U Elevate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedhussainsaber&label=Profile%20views&color=0e75b6&style=flat" alt="syedhussainsaber" /> </p>
+ <img align="right" src="./image.png" width="350" alt="syedhussainsaber" /> 
 
 - 🔭 I’m currently working on [Sass Product](https://whereuelevate.com)
 
