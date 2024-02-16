@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Syed Hussain Saber</h1>
 <h3 align="center">🚀 Passionate Frontend Software Developer | B.Tech Graduate | Actively contributing as an SDE Intern at Where U Elevate</h3>
 
- <img align="right" src="./image.png" width="350" alt="syedhussainsaber" /> 
+ <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
+ width="350" alt="syedhussainsaber" /> 
 
 - 🔭 I’m currently working on [Sass Product](https://whereuelevate.com)
 
