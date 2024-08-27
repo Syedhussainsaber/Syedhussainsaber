@@ -1,6 +1,6 @@
 ![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm Syed Hussain Saber</h1>
-<h3 align="center">🚀 Passionate Frontend Software Developer | B.Tech Graduate | Actively contributing as an SDE Intern at Where U Elevate</h3>
+<h3 align="center">🚀 Passionate Frontend Software Developer | B.Tech Graduate | Actively contributing as a Frontend Developer at <a href="https://www.newindiaabroad.com/">India Aboard</a></h3>
 
 <p align="right"> <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
  width="330" alt="syedhussainsaber" />  </p>
