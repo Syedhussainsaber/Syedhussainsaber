@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Sass Product](https://whereuelevate.com)
 
-- 🌱 I’m currently learning **Redux and Typescript**
+- 🌱 Skills: **Next Js, React Js, JavaScript, TypeScript, Redux, Node Js, Git, Github, Vercel Deployment, HTML, CSS, Material UI and Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/syed-hussain-saber/](https://www.linkedin.com/in/syed-hussain-saber/)
 
