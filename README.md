@@ -1,35 +1,94 @@
-![Header](./banner.png)
-<h1 align="center">Hi 👋, I'm Syed Hussain Saber</h1>
-<h3 align="center">🚀 Passionate Frontend Software Developer | B.Tech Graduate | Actively contributing as a Frontend Developer at <a href="https://www.newindiaabroad.com/">India Aboard</a></h3>
+<h1 align="center">Hi, I'm Syed Hussain Saber</h1>
+<h3 align="center">Frontend Engineer | React | Next.js | TypeScript</h3>
 
-<p align="right"> <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
- width="330" alt="syedhussainsaber" />  </p>
-
-- 🔭 I’m currently working on [Sass Product](https://whereuelevate.com)
-
-- 🌱 Skills: **Next Js, React Js, JavaScript, TypeScript, Redux, Node Js, Git, Github, Vercel Deployment, HTML, CSS, Material UI and Tailwind CSS**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/syed-hussain-saber/](https://www.linkedin.com/in/syed-hussain-saber/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/syed-hussain-saber/](https://www.linkedin.com/in/syed-hussain-saber/)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **https://www.linkedin.com/in/syed-hussain-saber/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/syedhussain8888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedhussain8888" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syed-hussain-saber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-hussain-saber" height="30" width="40" /></a>
-<a href="https://instagram.com/syedsaber0987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedsaber0987" height="30" width="40" /></a>
+<p align="center">
+Building scalable web applications and improving user experience through clean frontend architecture.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedhussainsaber&show_icons=true&locale=en&layout=compact" alt="syedhussainsaber" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedhussainsaber&show_icons=true&locale=en" alt="syedhussainsaber" /></p>
+<h2>About Me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedhussainsaber&" alt="syedhussainsaber" /></p>
+- Frontend Engineer with **2+ years of experience**
+- Working mainly with **React, Next.js and TypeScript**
+- Interested in **performance optimization and scalable UI systems**
+- Experience building **production dashboards and SaaS platforms**
+- Currently learning more about **frontend architecture and system design**
 
+---
+
+<h2>Tech Stack</h2>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=redux" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=materialui" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vercel" />
+
+</p>
+
+---
+
+<h2>Projects</h2>
+
+<b>Community Platform – Dhaaga US</b>  
+Built a community dashboard using Next.js and TypeScript with multiple API integrations and UI optimizations.
+
+<b>FX Intelligence Platform</b>  
+Developed a platform for comparing money transfer providers using Next.js, Supabase and Prisma with server-side rendering.
+
+---
+
+<h2>Writing</h2>
+
+I occasionally share things I'm learning about React, performance optimization, and frontend development.
+
+LinkedIn  
+https://www.linkedin.com/in/syed-hussain-saber/
+
+---
+
+<h2>Connect</h2>
+
+<p>
+<a href="https://linkedin.com/in/syed-hussain-saber">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+<a href="https://twitter.com/syedhussain8888">
+<img src="https://skillicons.dev/icons?i=twitter" width="40"/>
+</a>
+
+<a href="https://github.com/syedhussainsaber">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+</p>
+
+---
+
+<h2>GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=syedhussainsaber&show_icons=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhussainsaber&layout=compact" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedhussainsaber"/>
+</p>
